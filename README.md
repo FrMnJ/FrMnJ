@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **developers**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **Golang**
 
