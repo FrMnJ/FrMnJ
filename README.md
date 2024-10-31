@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frmnj" alt="frmnj" /></a> </p>
 
-- 🔭 I’m currently working on **Poolpal**
+- 🔭 I’m currently working on **email analysis tools**
 
 - 🌱 I’m currently learning **Golang**
 
