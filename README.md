@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frmnj" alt="frmnj" /></a> </p>
 
-- 🔭 I’m currently working on the backend using C#
+- 🔭 I’m currently working on the backend and frontend using PHP, Golang and Typescript.
 
-- 🌱 I’m currently learning **C#, Blazor, MAUI**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FrMnJ](https://github.com/FrMnJ)
 
-- 💬 Ask me about **C# and Golang**
+- 💬 Ask me about **Golang**
 
 - ⚡ Fun fact **I love cybersecurity**
 
