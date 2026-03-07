@@ -2,7 +2,7 @@
 
 ### Developer who likes building things
 
-- 🔭 I'm currently working on **adventure**
+- 🔭 I'm currently working on **tasks**
 
 - 🌱 I'm currently learning **golang, vue, laravel**
 
