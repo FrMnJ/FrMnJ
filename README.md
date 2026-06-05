@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **golang**
 
-- ⚡ Fun fact **I write code without AI completion… on purpose.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/FrMnJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="FrMnJ" height="30" width="40" /></a>
